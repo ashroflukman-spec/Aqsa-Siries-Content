@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ep-001",
+    "podcastId": "aqsa-strategic",
+    "title": "Mukadimah: Mengapa Perancangan Itu Perlu",
+    "audioUrl": "",
+    "order": 1,
+    "duration": "00:00"
+  },
+  {
+    "id": "ep-002",
+    "podcastId": "isra-mikraj",
+    "title": "Latar Peristiwa: Tahun Dukacita",
+    "audioUrl": "",
+    "order": 1,
+    "duration": "00:00"
+  },
+  {
+    "id": "ep-003",
+    "podcastId": "peranan-ummah",
+    "title": "Apakah Maksud Ummah?",
+    "audioUrl": "",
+    "order": 1,
+    "duration": "00:00"
+  }
+]
